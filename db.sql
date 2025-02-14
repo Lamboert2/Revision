@@ -1,0 +1,1 @@
+CREATE table lambo(id int Auto_increment primary key, username varchar(200), email varchar(200), password varchar(200));
